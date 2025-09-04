@@ -1,4 +1,4 @@
-🐧 Gerenciamento de Serviços e Monitoramento no Linux (AWS EC2)
+# 🐧 Gerenciamento de Serviços e Monitoramento no Linux (AWS EC2)
 
 ---
 
@@ -6,7 +6,7 @@ Este projeto documenta um laboratório prático em uma instância Amazon Linux E
 
 ---
 
-📂 **Estrutura do Projeto**
+# 📂 **Estrutura do Projeto**
 
 ```
 gerenciamento-e-monitoramento-linux/
