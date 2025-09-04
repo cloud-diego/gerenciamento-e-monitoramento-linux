@@ -47,7 +47,7 @@ gerenciamento-e-monitoramento-linux/
 #### 1. Conexão via SSH
 
 1.  Baixei a chave de acesso (.pem para Mac/Linux ou .ppk para Windows).
-2.  Altere as permissões da chave:
+2.  Alterei as permissões da chave:
     ```bash
     chmod 400 labsuser.pem
     ```
