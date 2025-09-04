@@ -2,7 +2,7 @@
 
 ---
 
-Este projeto documenta um laboratório prático em uma instância Amazon Linux EC2, focado no gerenciamento de serviços e no monitoramento de recursos do sistema. O objetivo foi aprender a verificar o status de serviços, a monitorar processos com o top e a usar o AWS CloudWatch para obter uma visão mais ampla da performance da instância.
+Este repositório documenta um laboratório prático em uma instância Amazon Linux EC2, focado no gerenciamento de serviços e no monitoramento de recursos do sistema. O objetivo foi aprender a verificar o status de serviços, a monitorar processos com o top e a usar o AWS CloudWatch para obter uma visão mais ampla da performance da instância.
 
 ---
 
